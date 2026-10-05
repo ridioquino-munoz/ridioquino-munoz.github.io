@@ -5,3 +5,6 @@ HTML page showcasing my professional background
 - HTML/HTML5
 - CSS
 - Javascript
+
+## Click link to see my bio
+https://ridioquino-munoz.github.io/
